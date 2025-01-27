@@ -14,8 +14,12 @@ sudo apt install \
 	libvorbis-dev \
 	libgl1-mesa-dev \
 	libegl1-mesa-dev \
-	libfreetype-dev
+	libfreetype-dev -y
 ```
+
+### Downloading
+```git clone https://github.com/nanda-gopal-sb/sudoku/```
+
 ### Building
 ```bash
 cmake -B build
